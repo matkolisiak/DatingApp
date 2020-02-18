@@ -1,0 +1,7 @@
+dotnet new webapi -n DatingApp.API
+cd DatingApp.API
+code .
+dotnet watch run
+
+new class - prop
+dotnet tool install --global dotnet-ef --version 3.0.0
